@@ -2,8 +2,8 @@
 
 tirés de IEEE, ACM et https://www.gdr-soc.cnrs.fr/conferences/ et https://www.gdr-soc.cnrs.fr/les-revues-tableaux/ (d'où sont tirés les rangs présents).
 
-Domaine direct
-Conférences : 
+## Domaine direct
+### Conférences : 
 - IEEE/ACM ICCAD (A+)
 - IEEE SIPS (B)
 - IEEE/ACM DATE (A+)
@@ -15,7 +15,7 @@ Conférences :
 - IEEE FPL (A)
 - ACM CF (B)
 - IEEE DASIP (B)
-Journaux : 
+### Journaux : 
 - IEEE PIEEE (A)
 - ACM TOCS (A)
 - IEEE TC (A)
@@ -24,19 +24,19 @@ Journaux :
 - ACM TODAES (A)
 - ACM TRETS (A) 
 
-Domaine proche
-Conférences : 
+## Domaine proche
+### Conférences : 
 - IEEE/ACM VLSID
 - IEEE VCIP
 - IEEE ASAP (A)
 - IEEE/ACM CASES (A)
 - IEEE IC-SAMOS (B)
-Journaux : 
+### Journaux : 
 - SCI. PRESS JCST (B)
 - Springer DAES (B)
 
-Culture gé
-Conférences : 
+## Culture gé
+### Conférences : 
 - IEEE ICECS (B)
 - IEEE IPDPS (A+)
 - ACM/IEEE ISCA (A+)
@@ -46,16 +46,16 @@ Conférences :
 - ACM ICS
 - ACM PACT
 - ACM SPAA
-Journaux : 
+### Journaux : 
 - Springer JRTIP (A)
 - Euromicro JSA (A)
  
-Par plaisir
-Conférences : 
+## Par plaisir
+### Conférences : 
 - Euromicro MICRO (A+)
 - IEEE HPCA (A+)
 - IEEE ICCD (A)
 - IEEE ARITH (A)
-Journaux : 
+### Journaux : 
 - IEEE Micro (A)
 - Elsevier MICRO (A)
