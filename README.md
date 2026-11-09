@@ -31,6 +31,7 @@ tirés de IEEE, ACM et https://www.gdr-soc.cnrs.fr/conferences/ et https://www.g
 - IEEE ASAP (A)
 - IEEE/ACM CASES (A)
 - IEEE IC-SAMOS (B)
+- ACM ICPP (A)
 ### Journaux : 
 - SCI. PRESS JCST (B)
 - Springer DAES (B)
