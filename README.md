@@ -33,6 +33,7 @@ tirés de IEEE, ACM et https://www.gdr-soc.cnrs.fr/conferences/ et https://www.g
 - IEEE/ACM CASES (A)
 - IEEE IC-SAMOS (B)
 - ACM ICPP (A)
+- ACM/IEEE ISCA (A+)
 ### Journaux : 
 - SCI. PRESS JCST (B)
 - Springer DAES (B)
@@ -41,7 +42,6 @@ tirés de IEEE, ACM et https://www.gdr-soc.cnrs.fr/conferences/ et https://www.g
 ### Conférences : 
 - IEEE ICECS (B)
 - IEEE IPDPS (A+)
-- ACM/IEEE ISCA (A+)
 - IEEE RTSS (A+)
 - IEEE/ACM ASP-DAC (A)
 - ACM HPDC
