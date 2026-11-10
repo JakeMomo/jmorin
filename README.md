@@ -22,7 +22,8 @@ tirés de IEEE, ACM et https://www.gdr-soc.cnrs.fr/conferences/ et https://www.g
 - ACM TACO (A)
 - ACM TECS (A)
 - ACM TODAES (A)
-- ACM TRETS (A) 
+- ACM TRETS (A)
+- IEEE TCAD
 
 ## Domaine proche
 ### Conférences : 
